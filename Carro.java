@@ -11,7 +11,8 @@ public class Carro{
         this.placa = placa;
         this.motor = motor;
         this.condutor = condutor;
-    }
+    } //scrr
+    
 
     public String getMarca() {
         return marca;
