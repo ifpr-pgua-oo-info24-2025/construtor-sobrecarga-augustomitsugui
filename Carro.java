@@ -40,7 +40,6 @@ public class Carro{
     public Motor getMotor() {
         return motor;
     }
-
     public void setMotor(Motor motor) {
         this.motor = motor;
     }
@@ -52,5 +51,8 @@ public class Carro{
     public void setCondutor(Condutor condutor) {
         this.condutor = condutor;
     }
+
+    //public void toString
+    
 }
 
